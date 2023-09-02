@@ -5,3 +5,7 @@
 ```
 $ sudo touch ur_mom
 ```
+
+- [x] fix wiring
+- [x] swipe card
+- [ ] clean vent
